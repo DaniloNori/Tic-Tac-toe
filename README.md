@@ -1,5 +1,5 @@
 Tic Tac Toe Game
-Using Tkinter
+Using Tkinter.
 
 Features.
 Allows two players to play Tic Tac Toe against each other
